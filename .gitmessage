@@ -1,0 +1,40 @@
+# ====================================== Template =======================================
+# <type>[(scope)][!]: <summary> (maximum 50 characters)
+
+# [body]: Explain WHY you are making this change, not HOW. (wrap lines at 72 characters)
+
+# [footer]
+# Signed-off-by: <name> (<email address>)
+# Reviewed-by: <name> (@<GitHub username>)
+# References/Fixes: #<GitHub issue number>
+# =======================================================================================
+
+
+# =================================== Commit Message ====================================
+
+# =======================================================================================
+
+
+# ==================================== Specification ====================================
+# https://conventionalcommits.org - <required field> - [optional field]
+
+# Remember to:
+# - not capitalize the subject line, nor end it with a period;
+# - separate subject, body, footer, and paragraphs with a blank line;
+# - start multi-line bullet points with 2 whitespaces followed by "-";
+# - use the imperative, present tense (e.g., "fix" not "fixed" nor "fixes").
+
+# | Type        | Description                                                           |
+# | ----------- | --------------------------------------------------------------------- |
+# | build       | Changes that affect the build system or external dependencies         |
+# | chore       | Minor maintenance activities — no production code change              |
+# | ci          | Changes to CI configuration files or scripts                          |
+# | docs        | Changes or additions to the documentation                             |
+# | feat        | Introduction of a new feature                                         |
+# | fix         | Correction of bugs or issues                                          |
+# | perf        | Optimizations that improve the performance of production code         |
+# | refactor    | Code revisions and improvements — no production code change           |
+# | revert      | Reversion to a previous commit                                        |
+# | style       | Code style changes that don't affect functionality                    |
+# | test        | Addition or refactoring of tests — no production code change          |
+# =======================================================================================
